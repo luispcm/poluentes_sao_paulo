@@ -1,0 +1,1 @@
+Modelagem espacial bayesiana para análise de poluentes na cidade de São Paulo-SP © 2023 by Luís Philipe Craveiro Mendes is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
